@@ -1,8 +1,9 @@
 ---
 layout: home
-profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+title: Boun CompLing
+# profile_picture:
+#   src: /assets/img/profile-pic.jpg
+#   alt: website picture
 ---
 
 Welcome! This site serves as a main hub for the Computational Linguistics Reading Group in the Linguistics Department at Bogazici University. 
